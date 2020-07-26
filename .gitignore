@@ -1,1 +1,8 @@
 /.vscode
+www/__pycache__/app.cpython-38.pyc
+www/__pycache__/config_default.cpython-38.pyc
+www/__pycache__/config_override.cpython-38.pyc
+www/__pycache__/config.cpython-38.pyc
+www/__pycache__/models.cpython-38.pyc
+www/__pycache__/orm.cpython-37.pyc
+www/__pycache__/orm.cpython-38.pyc
